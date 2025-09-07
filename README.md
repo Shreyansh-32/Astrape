@@ -2,21 +2,6 @@
 
 **Astrape** is a modern **tech gadget e-commerce store** built with **Next.js**, featuring full user authentication, powerful product filters, and a dynamic cart system. Designed with a sleek **dark blue theme** using ShadCN UI, Astrape provides a smooth and engaging shopping experience across all devices.
 
----
-
-## 📌 Table of Contents
-
-- [Features](#-features)  
-- [Tech Stack](#-tech-stack)  
-- [Screenshots](#-screenshots)  
-- [Getting Started](#-getting-started)  
-- [Environment Setup](#-environment-setup)  
-- [Usage](#-usage)  
-- [Future Enhancements](#-future-enhancements)  
-- [Contact](#-contact)  
-
----
-
 ## 🚀 Features
 
 - **User Authentication** — Sign up & log in with form validation (`react-hook-form` + `zod`).  
